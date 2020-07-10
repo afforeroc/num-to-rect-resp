@@ -1,1 +1,1 @@
-# rectangular-number-representation
+# Number to rectangular represetation
